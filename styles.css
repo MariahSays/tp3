@@ -1,0 +1,26 @@
+
+
+h1 {
+  font-family: 'Anton', sans-serif;
+}
+
+h4 {
+  margin-bottom: 0px;
+}
+h5{
+  font-family: 'Playfair Display', serif; 
+}
+
+ul, ol {
+margin-top: 0px;
+}
+
+li{
+  
+}
+
+.copyright {
+  font-family: Arial;
+  font-size: 9px;
+  font-style: italic;
+}
