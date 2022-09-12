@@ -1,14 +1,22 @@
-
+body{
+  background-color: #FFCC99;
+}
 
 h1 {
   font-family: 'Anton', sans-serif;
 }
 
 h4 {
-  margin-bottom: 0px;
+  margin-bottom: 0;
+  font-family: 'Playfair Display', serif;
+  border-bottom: double 2px #5971BC;
 }
-h5{
-  font-family: 'Playfair Display', serif; 
+
+p.sub {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-style: italic;
+  font-family: 'Playfair Display', serif;
 }
 
 ul, ol {
@@ -16,9 +24,18 @@ margin-top: 0px;
 }
 
 li{
-  
+  font-family: 'Playfair Display', serif;
+  font-size: 110%;
 }
 
+span.emphasize {
+  font-style: italic;
+  font-weight: bold;
+}
+
+mark{
+  background-color: #FCEC88;
+}
 .copyright {
   font-family: Arial;
   font-size: 9px;
